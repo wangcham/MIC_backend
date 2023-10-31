@@ -1,0 +1,8 @@
+#配置文件夹
+/backend/config.py
+#虚拟环境
+/venv
+#权重文件
+/backend/net_work/unet_params/cpu_weight.pth
+
+/dist
